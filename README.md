@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi，我是Percy👋
+## 关于我
+计算机专业本科生，正在学习软件工程、数据结构、计算机网络等课程。
+熟悉 C / Java，正在练习项目开发与团队协作，坚持写技术博客记录学习。
+爱好：篮球，阅读，游戏
+目标：夯实计算机底层基础，提升工程实践能力。
 
 <!--
 **Percy-Li-arch/Percy-Li-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
